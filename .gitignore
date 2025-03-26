@@ -1,0 +1,9 @@
+# Unity specific ignores
+Library/
+Logs/
+Temp/
+obj/
+.vs/
+Build/
+Builds/
+UserSettings/
